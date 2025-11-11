@@ -1,7 +1,5 @@
 **StarWars**
 
-**Download Framework**
-https://github.com/skhandelwalIK/APIFramework
 
 **Writing a test**
 Start adding test under src/test/java/test
